@@ -1,0 +1,10 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .footerH1{
+        @apply font-bold pt-3 pb-5;
+    }
+}
